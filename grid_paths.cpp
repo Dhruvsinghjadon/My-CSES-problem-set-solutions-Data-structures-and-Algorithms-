@@ -1,16 +1,12 @@
 #include <bits/stdc++.h>
-
 using namespace std;
 const int N = 7;
-
 int ans;
 char c[N*N+1];
 bool vis[N+1][N+1];
-
 bool inbounds(int x, int y){
     return 1 <= x && x <= N && 1 <= y && y <= N;
 }
-
 void dfs(int x, int y, int i){
     if(i == N*N-1 || (x == N && y == 1)){
                  ans += (i == N*N-1 && (x == N && y == 1));

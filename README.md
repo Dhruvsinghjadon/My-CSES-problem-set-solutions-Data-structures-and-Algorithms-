@@ -15,7 +15,7 @@ https://cses.fi/problemset/
 <li>Advanced Techniques </li>
 <li>Additional Problems</li>
 </ul>
- My resources ,  for studing data structures and algorithm-
+ My resources , for studying data structures and algorithm-
 
 1)https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/
 2)http://web.stanford.edu/class/cs97si/
